@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.27",
+  "importer": "prefab",
+  "imported": true,
+  "uuid": "1a17e48e-75fc-42ce-a6c6-94522c79c874",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "syncNodeName": "Block"
+  }
+}
